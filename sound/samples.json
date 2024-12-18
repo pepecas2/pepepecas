@@ -1,5 +1,8 @@
 [
   { "url" : "sound","type":"audio","bank":"sound","n":0},
   { "url" : "sound","type":"audio","bank":"sound","n":1},
-  {"url": : "sound","type":"audio","bank":"sound","n":2},
+  { "url" : "sound","type":"audio","bank":"sound","n":2},
+  { "url" : "sound","type":"audio","bank":"sound","n":3},
+  { "url" : "sound","type":"audio","bank":"sound","n":4},
+  { "url" : "sound","type":"auido","bank":"sound","n":5},
 ]
